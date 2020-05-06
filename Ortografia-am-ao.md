@@ -78,3 +78,5 @@ Com a terminação -ão, as formas verbais são oxítonas, tendo a última síla
   co-me-RÃO;
   le-RÃO.
 
+## Referências
+https://duvidas.dicio.com.br/am-ou-ao-na-terminacao-dos-verbos-qual-a-diferenca/
